@@ -15,4 +15,5 @@ Flask app for assessing bot-likeness of mouse movements (for deployment on Herok
 ### Usage
 Start app.py either locally or on Heroku (all the necessary files for that are present in the repo)
 
-It is a part of the More.Tech hackathon project. Follow [the link](https://github.com/NikitaChizhov/More.Tech) for more details
+### P.S.
+It is a part of a More.Tech hackathon project. Follow [the link](https://github.com/NikitaChizhov/More.Tech) for more details
