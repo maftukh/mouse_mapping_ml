@@ -2,7 +2,7 @@
 
 Flask app for assessing bot-likeness of mouse movements (for deployment on Heroku)
 
-Functinality:
+### Functinality
 `/points` endpoint for POST requests:
 - Listens for a bundle of 40 points (`(x, y)` mouse positions with 50ms frequency)
 - Saves the bundle into a global list
@@ -11,3 +11,8 @@ Functinality:
 
 `/points` endpoint for GET requests:
 - Returns a list 
+
+### Usage
+Start app.py either locally or on Heroku (all the necessary files for that are present in the repo)
+
+It is a part of the More.Tech hackathon project. Follow [the link](https://github.com/NikitaChizhov/More.Tech) for more details
